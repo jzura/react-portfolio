@@ -1,10 +1,10 @@
-# Employee Directory
+# React Portfolio
 
 ## Overview
 
-Employee directory built using with React. 
+Portfolio for myself made with React 
 
 ## Link for deployed version
 
-https://jzura.github.io/Employee-Directory/
+https://jzura.github.io/react-portfolio/
 
